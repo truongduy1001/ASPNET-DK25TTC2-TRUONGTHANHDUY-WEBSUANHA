@@ -3,7 +3,7 @@
 **Họ và tên:** Trương Thanh Duy  
 **MSSV:** DK25TTC2 - 170125087  
 **Dự án:** Xây dựng website đặt dịch vụ sửa chữa nhà cửa (ASP.NET)  
-**Thời gian:** 12/10/2025 – 19/10/2025  
+**Thời gian:** 23/06/2026 – 26/06/2026  
 
 ---
 
