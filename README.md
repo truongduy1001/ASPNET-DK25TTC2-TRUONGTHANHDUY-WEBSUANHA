@@ -23,7 +23,6 @@ Trong thư mục dự án, có 2 file script:
 Nhấn đúp vào file phù hợp → xong.
 
 ---
-
 ## Cách chạy bằng lệnh (PowerShell)
 
 ### Bước 1: Cài .NET SDK
