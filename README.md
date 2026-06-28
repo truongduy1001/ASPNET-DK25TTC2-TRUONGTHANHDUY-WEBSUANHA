@@ -407,7 +407,7 @@ Dự án này được phát triển cho mục đích học tập và demo.
 
 **Sinh viên**: Trương Thanh Duy  
 **Lớp**: DK25TTC2  
-** Sđt : 0772734911
+ Sđt : 0772734911
 
 
 
