@@ -3,7 +3,7 @@
 **Họ và tên:** Truong Thanh Duy 
 **MSSV:** DK25TTC2 - 170125087 
 **Dự án:** Xây dựng website đặt dịch vụ sửa chữa nhà cửa (ASP.NET)  
-**Thời gian:**  
+**Thời gian:** 26/06/2026 – 28/06/2026
 
 ---
 
