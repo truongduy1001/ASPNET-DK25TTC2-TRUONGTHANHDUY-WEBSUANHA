@@ -45,3 +45,4 @@
 - Đã học được cách sử dụng UserManager và SignInManager.
 - Cần tìm hiểu thêm về Authorization và [Authorize] attribute.
 - Sẽ tạo tài liệu hướng dẫn sử dụng cho người dùng cuối.
+- Còn 1 số lỗi chưa biết cách fix
