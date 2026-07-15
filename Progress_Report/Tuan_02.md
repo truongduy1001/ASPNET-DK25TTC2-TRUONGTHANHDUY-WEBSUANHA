@@ -6,7 +6,7 @@
 
 **Dự án:** Xây dựng website đặt dịch vụ sửa chữa nhà cửa (ASP.NET)  
 
-**Thời gian:** 26/06/2026 – 28/06/2026
+
 
 ---
 
